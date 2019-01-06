@@ -1,1 +1,3 @@
-# K-means
+# K-means Implementation
+
+###Credits to Gayathri
